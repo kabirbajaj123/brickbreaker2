@@ -33,7 +33,7 @@ function setLevel(){
    var level = prompt("Select Level (Easy, Normal, Hard)", "Hard");
 
   if (level == "Easy") {
-    speed = 0.5;
+    speed = 1;
  
   }
   if (level == "Normal") {
